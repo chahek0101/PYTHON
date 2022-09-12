@@ -1,0 +1,12 @@
+number = eval (input ("enter the number"))
+if number % 5 == 0:
+    print("hi five")
+if number % 2 == 0:
+    print("its even number")
+    
+    
+    number = eval (input( "enter the number"))
+if number % 2 == 0:
+  print("its an even number")
+else:
+    print("its not an even number")
